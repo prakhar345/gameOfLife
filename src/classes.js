@@ -98,12 +98,6 @@ grid.prototype = {
 
 }
 
-
-
-
-
-
-
 module.exports = {
   Point: Point,
   grid: grid,
