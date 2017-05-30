@@ -9,6 +9,9 @@
   "author": "prakhar",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^3.4.2"
+    "jsdom": "11.0.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^3.4.2",
+    "mocha-jsdom": "^1.1.0"
   }
 }
